@@ -6,7 +6,7 @@
   cd test_task_11_10
   docker-compose up --build  
 ```
-
+## Изменение цепочки ДНК: необходимо поменять в файле settings переменную GENE
 
 ## Документация по API
 
